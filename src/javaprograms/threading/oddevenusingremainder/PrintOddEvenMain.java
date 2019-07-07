@@ -1,4 +1,4 @@
-package java.threading.oddevenusingremainder;
+package javaprograms.threading.oddevenusingremainder;
 
 public class PrintOddEvenMain {
 	public static void main(String[] args) {

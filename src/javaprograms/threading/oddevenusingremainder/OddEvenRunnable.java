@@ -1,4 +1,4 @@
-package java.threading.oddevenusingremainder;
+package javaprograms.threading.oddevenusingremainder;
 
 public class OddEvenRunnable implements Runnable{
  

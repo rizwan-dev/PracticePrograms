@@ -1,4 +1,4 @@
-package java.threading.oddeven;
+package javaprograms.threading.oddeven;
 
 public class Demo {
     public static void main(String... args) {

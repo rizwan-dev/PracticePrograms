@@ -1,4 +1,4 @@
-package java.threading.oddeven;
+package javaprograms.threading.oddeven;
 
 class TaskEvenOdd implements Runnable {
     private int max;
